@@ -11,4 +11,40 @@
 * .section-1 .container .row .col-md-6 p {
   font-size: small;
 }
+
+* .section-2 .container .icon {
+  color: #0d6efd;
+  background-color: #ebeaeb;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+* .section-2 .container h4 {
+  font-size: small;
+}
+
+* .section-2 .container p {
+  font-size: small;
+}
+
+.section-3 .container .row .icon {
+  color: #0d6efd;
+  background-color: #ebeaeb;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.section-3 .container .row h4 {
+  font-size: small;
+}
+
+.section-3 .container .row p {
+  font-size: small;
+}
 /*# sourceMappingURL=style.css.map */
